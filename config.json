@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpncrypt",
+        "uuid": 25155360,
+        "checksum": "f9bgme"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
